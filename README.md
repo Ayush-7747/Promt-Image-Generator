@@ -1,4 +1,4 @@
-# 🧠 Student Coding Room Image Generator
+# 🧠 AI-based Promt Image Generator
 
 This project provides a Jupyter Notebook that generates a highly detailed and imaginative prompt for AI-based image generation tools like DALL·E, Midjourney, or Stable Diffusion. The prompt creates a vivid mental picture of a student coding in a cozy, moody room — perfect for use in AI art generation, storytelling, or concept design.
 
